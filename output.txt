@@ -1,0 +1,23 @@
+ The most popular articles of all time:
+
+        Candidate is jerk, alleges rival has 338647 views
+
+        Bears love berries, alleges bear has 253801 views
+
+        Bad things gone, say good people has 170098 views
+
+
+ The most popular authors of all time:
+
+        Ursula La Multa has 507594 views
+
+        Rudolf von Treppenwitz has 423457 views
+
+        Anonymous Contributor has 170098 views
+
+        Markoff Chaney has 84557 views
+
+
+ The days when more than 1% of requests lead to error:
+
+         On 17-JUL-2016 the error was 2.26 %
