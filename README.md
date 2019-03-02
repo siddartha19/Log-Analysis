@@ -93,4 +93,4 @@ GROUP BY Date;
 7. Then exit `psql`.
 
 8. Now execute the Python file - `python project.py`.
-# Log-Analysis
+
