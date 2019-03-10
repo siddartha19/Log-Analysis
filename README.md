@@ -1,4 +1,4 @@
-# Logs Analysis
+# Log Analysis
 
 Project Log Analysis- Udacity Full Stack Nanodegree course
 A Reporting tool was built that will use information from the database to discover what kind of articles the site's readers like. The database contains newspaper articles, as well as the web server log for the site. The log has a database row for each time a reader loaded a web page. Using this information, the following code will answer questions about the site's user activity.
